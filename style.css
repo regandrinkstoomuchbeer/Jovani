@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/jbg.jpg");
+  background: url("https://user-images.githubusercontent.com/61661064/162360956-87be767a-1d03-4932-b8c3-75b74aef6256.jpg");
   background-size: cover;
 }
 #hero:before {
